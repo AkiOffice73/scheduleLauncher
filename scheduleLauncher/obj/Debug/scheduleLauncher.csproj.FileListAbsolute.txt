@@ -1,0 +1,6 @@
+C:\dev\project\scheduleLauncher\scheduleLauncher\bin\Debug\scheduleLauncher.exe.config
+C:\dev\project\scheduleLauncher\scheduleLauncher\bin\Debug\scheduleLauncher.exe
+C:\dev\project\scheduleLauncher\scheduleLauncher\bin\Debug\scheduleLauncher.pdb
+C:\dev\project\scheduleLauncher\scheduleLauncher\obj\Debug\scheduleLauncher.csprojResolveAssemblyReference.cache
+C:\dev\project\scheduleLauncher\scheduleLauncher\obj\Debug\scheduleLauncher.exe
+C:\dev\project\scheduleLauncher\scheduleLauncher\obj\Debug\scheduleLauncher.pdb
